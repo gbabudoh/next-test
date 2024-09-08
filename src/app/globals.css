@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: sans-serif;
+  background: gainsboro;
+  margin-top: 30px;
+}
+
+.title {
+  color: rgb(55, 51, 51);
+}
